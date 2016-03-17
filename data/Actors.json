@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"ruriko3","characterIndex":0,"characterName":"ruriko","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"girls1","traits":[{"code":43,"dataId":17,"value":1}],"initialLevel":1,"maxLevel":99,"name":"瑠璃子","nickname":"","note":"","profile":"ゲームで勇者をやっていたら、\n突然謎の世界で勇者になっていた。ゲーム廃人。"},
+{"id":2,"battlerName":"natsumi3","characterIndex":0,"characterName":"natsumi","classId":4,"equips":[6,1,2,3,0],"faceIndex":2,"faceName":"girls1","traits":[],"initialLevel":1,"maxLevel":99,"name":"奈津美","nickname":"","note":"","profile":"家でFFをしていたところ、気が付いたらゲームの中にいた。\n瑠璃子の親分。逆らえない。"},
+{"id":3,"battlerName":"mikako3","characterIndex":0,"characterName":"mikako","classId":2,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"girls1","traits":[],"initialLevel":1,"maxLevel":99,"name":"未可子","nickname":"","note":"","profile":"気が付いたらゲームの中にいたが、\nそれなりに楽しんでいる。歌が得意。"},
+{"id":4,"battlerName":"sumire3","characterIndex":0,"characterName":"sumire","classId":3,"equips":[3,1,2,3,0],"faceIndex":5,"faceName":"girls1","traits":[],"initialLevel":1,"maxLevel":99,"name":"すみれ","nickname":"","note":"","profile":"Здравствуйте! 魔法使いじゃなくて魔女らしい。\nみかこしによく懐いている。"}
+]
