@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":819,"scrollY":454},
-{"id":2,"expanded":true,"name":"街１","order":2,"parentId":1,"scrollX":819,"scrollY":454},
+{"id":2,"expanded":true,"name":"街１","order":2,"parentId":1,"scrollX":428,"scrollY":447},
 {"id":3,"expanded":false,"name":"酒場","order":3,"parentId":2,"scrollX":428,"scrollY":447},
 {"id":4,"expanded":true,"name":"(教会)","order":18,"parentId":1,"scrollX":655.5,"scrollY":433.5},
 {"id":5,"expanded":true,"name":"草Lv2","order":10,"parentId":10,"scrollX":811,"scrollY":662},
