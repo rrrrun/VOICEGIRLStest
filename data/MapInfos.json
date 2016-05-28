@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":446.5,"scrollY":445},
-{"id":2,"expanded":false,"name":"街１","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"街１","order":2,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"酒場","order":3,"parentId":2,"scrollX":499,"scrollY":454},
 {"id":4,"expanded":true,"name":"(教会)","order":28,"parentId":1,"scrollX":500,"scrollY":445},
 {"id":5,"expanded":true,"name":"草Lv2","order":10,"parentId":11,"scrollX":617,"scrollY":673},
@@ -54,5 +54,5 @@ null,
 {"id":52,"expanded":true,"name":"森","order":51,"parentId":21,"scrollX":500,"scrollY":445},
 {"id":53,"expanded":true,"name":"ひみつきち","order":52,"parentId":52,"scrollX":500,"scrollY":445},
 {"id":54,"expanded":false,"name":"ひみつきちの奥","order":54,"parentId":52,"scrollX":446.5,"scrollY":445},
-{"id":55,"expanded":false,"name":"ひみつきち小屋","order":53,"parentId":53,"scrollX":418,"scrollY":437}
+{"id":55,"expanded":false,"name":"ひみつきち小屋","order":53,"parentId":53,"scrollX":500,"scrollY":445}
 ]
