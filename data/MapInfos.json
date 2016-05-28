@@ -54,5 +54,5 @@ null,
 {"id":52,"expanded":true,"name":"森","order":51,"parentId":21,"scrollX":500,"scrollY":445},
 {"id":53,"expanded":true,"name":"ひみつきち","order":52,"parentId":52,"scrollX":500,"scrollY":445},
 {"id":54,"expanded":false,"name":"ひみつきちの奥","order":54,"parentId":52,"scrollX":446.5,"scrollY":445},
-{"id":55,"expanded":false,"name":"ひみつきち小屋","order":53,"parentId":53,"scrollX":418,"scrollY":437}
+{"id":55,"expanded":false,"name":"ひみつきち小屋","order":53,"parentId":53,"scrollX":500,"scrollY":445}
 ]
